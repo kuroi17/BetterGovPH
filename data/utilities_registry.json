@@ -1,0 +1,98 @@
+[
+  {
+    "utility_id": "PH-DU-MER",
+    "name": "Manila Electric Company (MERALCO)",
+    "type": "Private Distribution Utility",
+    "regulator_ids": {
+      "erc_id": "ERC-DU-001",
+      "doe_id": "DOE-DU-MER",
+      "nea_id": null
+    },
+    "psgc": {
+      "region_name": "National Capital Region (NCR)",
+      "region_code": "130000000",
+      "coverage_summary": "Metro Manila, Bulacan, Cavite, Rizal, parts of Laguna, Quezon, Batangas"
+    },
+    "status": "Active"
+  },
+  {
+    "utility_id": "PH-EC-BENECO",
+    "name": "Benguet Electric Cooperative (BENECO)",
+    "type": "Electric Cooperative",
+    "regulator_ids": {
+      "erc_id": "ERC-EC-014",
+      "doe_id": "DOE-EC-BEN",
+      "nea_id": "NEA-EC-003"
+    },
+    "psgc": {
+      "region_name": "Cordillera Administrative Region (CAR)",
+      "region_code": "140000000",
+      "coverage_summary": "Baguio City and Benguet Province"
+    },
+    "status": "Active"
+  },
+  {
+    "utility_id": "PH-EC-BISELCO",
+    "name": "Busuanga Island Electric Cooperative (BISELCO)",
+    "type": "Electric Cooperative",
+    "regulator_ids": {
+      "erc_id": "ERC-EC-042",
+      "doe_id": "DOE-EC-BIS",
+      "nea_id": "NEA-EC-042"
+    },
+    "psgc": {
+      "region_name": "MIMAROPA Region",
+      "region_code": "170000000",
+      "coverage_summary": "Busuanga and Coron, Palawan (Off-Grid)"
+    },
+    "status": "Active"
+  },
+  {
+    "utility_id": "PH-DU-VECO",
+    "name": "Visayan Electric Company (VECO)",
+    "type": "Private Distribution Utility",
+    "regulator_ids": {
+      "erc_id": "ERC-DU-002",
+      "doe_id": "DOE-DU-VEC",
+      "nea_id": null
+    },
+    "psgc": {
+      "region_name": "Central Visayas (Region VII)",
+      "region_code": "070000000",
+      "coverage_summary": "Cebu City, Mandaue, Talisay, Minglanilla, Liloan, Consolacion"
+    },
+    "status": "Active"
+  },
+  {
+    "utility_id": "PH-EC-SOLECO",
+    "name": "Southern Leyte Electric Cooperative (SOLECO)",
+    "type": "Electric Cooperative",
+    "regulator_ids": {
+      "erc_id": "ERC-EC-089",
+      "doe_id": "DOE-EC-SOL",
+      "nea_id": "NEA-EC-089"
+    },
+    "psgc": {
+      "region_name": "Eastern Visayas (Region VIII)",
+      "region_code": "080000000",
+      "coverage_summary": "Southern Leyte"
+    },
+    "status": "Active"
+  },
+  {
+    "utility_id": "PH-DU-DLPC",
+    "name": "Davao Light and Power Company (DLPC)",
+    "type": "Private Distribution Utility",
+    "regulator_ids": {
+      "erc_id": "ERC-DU-003",
+      "doe_id": "DOE-DU-DLP",
+      "nea_id": null
+    },
+    "psgc": {
+      "region_name": "Davao Region (Region XI)",
+      "region_code": "110000000",
+      "coverage_summary": "Davao City, Panabo City, Carmen, Dujali, Sto. Tomas"
+    },
+    "status": "Active"
+  }
+]

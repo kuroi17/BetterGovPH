@@ -1,0 +1,92 @@
+[
+  {
+    "rate_id": "RATE-202606-MER",
+    "utility_id": "PH-DU-MER",
+    "utility_name": "Manila Electric Company (MERALCO)",
+    "billing_month": "2026-06",
+    "rate_per_kwh": 14.48,
+    "breakdown": {
+      "generation_charge": 7.82,
+      "transmission_charge": 0.98,
+      "system_loss_charge": 0.58,
+      "distribution_charge": 2.85,
+      "subsidies_and_taxes": 2.25
+    },
+    "generation_share_pct": 54.0,
+    "source_url": "https://www.meralco.com.ph/rates-archive/2026-06",
+    "source_format": "PDF / Press Release",
+    "verified": true
+  },
+  {
+    "rate_id": "RATE-202606-SOL",
+    "utility_id": "PH-EC-SOLECO",
+    "utility_name": "Southern Leyte Electric Cooperative (SOLECO)",
+    "billing_month": "2026-06",
+    "rate_per_kwh": 16.57,
+    "breakdown": {
+      "generation_charge": 9.94,
+      "transmission_charge": 1.25,
+      "system_loss_charge": 0.85,
+      "distribution_charge": 2.53,
+      "subsidies_and_taxes": 2.00
+    },
+    "generation_share_pct": 60.0,
+    "source_url": "https://soleco.org.ph/rates/june-2026",
+    "source_format": "Facebook Announcement / Table",
+    "verified": true
+  },
+  {
+    "rate_id": "RATE-202606-BIS",
+    "utility_id": "PH-EC-BISELCO",
+    "utility_name": "Busuanga Island Electric Cooperative (BISELCO)",
+    "billing_month": "2026-06",
+    "rate_per_kwh": 24.92,
+    "breakdown": {
+      "generation_charge": 15.45,
+      "transmission_charge": 1.50,
+      "system_loss_charge": 1.97,
+      "distribution_charge": 3.20,
+      "subsidies_and_taxes": 2.80
+    },
+    "generation_share_pct": 62.0,
+    "source_url": "https://biselco.ph/announcements/rates-june-2026.pdf",
+    "source_format": "Scanned PDF",
+    "verified": true
+  },
+  {
+    "rate_id": "RATE-202606-VEC",
+    "utility_id": "PH-DU-VECO",
+    "utility_name": "Visayan Electric Company (VECO)",
+    "billing_month": "2026-06",
+    "rate_per_kwh": 13.25,
+    "breakdown": {
+      "generation_charge": 7.15,
+      "transmission_charge": 0.88,
+      "system_loss_charge": 0.52,
+      "distribution_charge": 2.70,
+      "subsidies_and_taxes": 2.00
+    },
+    "generation_share_pct": 53.9,
+    "source_url": "https://visayanelectric.com/rates/june-2026",
+    "source_format": "Website Table",
+    "verified": true
+  },
+  {
+    "rate_id": "RATE-202606-DLP",
+    "utility_id": "PH-DU-DLPC",
+    "utility_name": "Davao Light and Power Company (DLPC)",
+    "billing_month": "2026-06",
+    "rate_per_kwh": 11.80,
+    "breakdown": {
+      "generation_charge": 6.25,
+      "transmission_charge": 0.80,
+      "system_loss_charge": 0.45,
+      "distribution_charge": 2.50,
+      "subsidies_and_taxes": 1.80
+    },
+    "generation_share_pct": 53.0,
+    "source_url": "https://davaolight.com/rates/2026-06",
+    "source_format": "Website Table",
+    "verified": true
+  }
+]
