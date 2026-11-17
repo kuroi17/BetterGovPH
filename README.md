@@ -75,8 +75,8 @@ Enables external platforms (like DBM COMPASS and eGovPH) and public monitors to 
 
 ### 1. Clone the repository and install dependencies
 ```bash
-git clone https://github.com/<your-username>/open-energy-data-ph.git
-cd open-energy-data-ph
+git clone https://github.com/kuroi17/BetterGovPH.git
+cd BetterGovPH
 pip install -r requirements.txt
 ```
 

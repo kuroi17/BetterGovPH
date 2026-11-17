@@ -6,3 +6,9 @@ venv/
 ENV/
 *.sqlite3
 .DS_Store
+
+# Reference materials / fellowship guidelines
+*.mhtml
+*.pdf
+Context*.md
+GUiDELINES*.md
